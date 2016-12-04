@@ -1,0 +1,10 @@
+.profilepic {
+	max-width: 100%;
+}
+body {background-color:skyblue;}
+
+.hobbies{text-align: left;}
+
+.myiconclass{font-size: 100px}
+
+.myprogress::-webkit-progress-bar {background-color: yellow !important;}
